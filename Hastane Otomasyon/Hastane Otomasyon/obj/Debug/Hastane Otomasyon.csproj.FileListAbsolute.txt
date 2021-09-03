@@ -1,0 +1,26 @@
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.exe.config
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.exe
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.pdb
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.AssemblyReference.cache
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Properties.Resources.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.GenerateResource.cache
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.exe
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.pdb
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmGirisler.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaDetay.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaGiriş.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaKayit.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmBilgiDüzenleme.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorBilgiDüzenle.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorDetay.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorGiris.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorPaneli.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDuyurular.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmSekreterDetay.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmSekreterGiris.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmBrans.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmRandevuListesi.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\bin\Debug\ccp-Cakm-IN\Hastane Otomasyon.resources.dll
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaKayit.ccp-Cakm-IN.resources
+C:\Users\Stajyer\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\ccp-Cakm-IN\Hastane Otomasyon.resources.dll
